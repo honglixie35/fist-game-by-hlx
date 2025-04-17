@@ -1,1 +1,1 @@
-It's my first game that is made by honglixie.
+This is a game made by honglixie
