@@ -6,3 +6,4 @@ class people:
         self.num+=1
         aa=self.a.get_rect()
         screen.blit(self.a,(0,0),aa)
+        pygame.display.flip()
